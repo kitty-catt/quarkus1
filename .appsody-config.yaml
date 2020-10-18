@@ -1,0 +1,3 @@
+id: "20201018090202.43238194"
+project-name: quarkus1
+stack: docker.io/appsody/quarkus:0.5
